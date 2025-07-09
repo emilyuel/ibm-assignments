@@ -1,2 +1,2 @@
 # ibm-assignments
-Collection of assignments of all the modules for better display and ease of study.
+Collection of SELECTED assignments from most modules for better display and ease of study.
